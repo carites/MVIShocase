@@ -1,0 +1,2 @@
+com/riccardotesta/mvishowcase/android/BuildConfig.java
+ com.riccardotesta.mvishowcase.android.BuildConfig
